@@ -1,0 +1,39 @@
+_repo: Le-Pays-de-l-Instar_68839
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Franc-Nohain
+    aliases:
+    - Le Grand, Maurice
+    - Grand, Maurice le
+    - Nohain, Franc
+    birthdate: 1873
+    deathdate: 1934
+    gutenberg_agent_id: '51055'
+    url: http://www.gutenberg.org/2009/agents/51055
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Franc-Nohain
+    - https://fr.wikipedia.org/wiki/Franc-Nohain
+description: ''
+gutenberg_issued: '2022-08-25'
+identifiers:
+  gutenberg: '68839'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k5439486g
+pgterms:marc905: 20210404001615francnohai
+pgterms:marc906: '1901'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: France :La revue blanche,1901.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature'
+- !lcsh 'Satire'
+- !lcc 'PQ'
+- GITenberg
+title: Le Pays de l'Instar
+url: http://www.gutenberg.org/ebooks/68839
